@@ -41,5 +41,5 @@ Users input the coordinates of screws, and the program:
 
 ---
 
-## 🧮 Material & Cost Formula
+## Material & Cost Formula
 Total Cost = Board + (Number of Screws × Cost per Screw) + (String Length × Cost per Meter)
